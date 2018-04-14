@@ -1,22 +1,42 @@
-python make_test_train_data_from_given_quora_dataset <dataset_name.csv>
+Dependencies :
+
+1.  python
+2.  keras
+3.  pandas
+4.  matplotlib
+5.  hdf5
+6.  h5py
+7.  nltk.corpus
+8.  re
+9.  pickle
+10. numpy
+11. glove word2vec
 
 
+Instructions:
+
+1. Place glove folder in extracted form in the same directory of codes.
+
+2. Download quora dataset from “http://qim.ec.quoracdn.net/quora_duplicate_questions.tsv”.
+
+Place it in the same directory of codes in extracted form. Name of this dataset should be different from “train.csv” and “test.csv” 
 
 
-python model_name train
+Run:
+1. python make_test_train_data_from_given_quora_dataset <dataset_name.csv>
 
+2. For LSTM with word embedding:
+	For training :  python siamese_lstm_word.py train
+	For testing : python siamese_lstm_word.py test
+  
+  For LSTM with char embedding:
+	python char_embedding.py
+	For training :  python siamese_lstm_char.py train
+	For testing : python siamese_lstm_char.py test
 
-
-
-python model_name test
-
-Where model_name is
-
-	1) siamese_lstm_word.py
-
-	2) siamese_lstm_char.py
-
-	3) siameseBiLSTM_word.py
+  For BiLSTM with word embedding:
+	For training :  python siamese_BiLSTM_word.py train
+	For testing : python siamese_BiLSTM_word.py test
 
 
 
