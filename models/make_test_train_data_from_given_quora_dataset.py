@@ -9,7 +9,7 @@ fwtr = open("train.csv", "w")
 fwtt = open("test.csv", "w")
 
 
-frtr = open(fin, "r", encoding="utf8")
+frtr = open(fin, "r")
 
 
 
@@ -21,7 +21,6 @@ tot_lines = 0
 
 for j, line in enumerate(lines):
 	if len(line) > 1:
-		#print(j)
 		tot_lines += 1
 
 
@@ -31,7 +30,6 @@ tt_l = tot_lines - tr_l
 
 for j, line in enumerate(lines):
 	if len(line)>1:
-		print(j)
 		line  = line.strip()
 		if j==0:
 			fwtr.write(line + '\n')
