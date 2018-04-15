@@ -39,7 +39,7 @@ Place it in the same directory of codes in extracted form. Name of this dataset 
 
 	For training :  python siamese_lstm_word.py train
 	
-	For testing : python siamese_lstm_word.py test
+	For testing  :  python siamese_lstm_word.py test
 
 
   For LSTM with char embedding:
@@ -48,14 +48,14 @@ Place it in the same directory of codes in extracted form. Name of this dataset 
 	
 	For training :  python siamese_lstm_char.py train
 	
-	For testing : python siamese_lstm_char.py test
+	For testing  :  python siamese_lstm_char.py test
 
 
   For BiLSTM with word embedding:
   
   	For training :  python siamese_BiLSTM_word.py train
 	
-	For testing : python siamese_BiLSTM_word.py test
+	For testing  :  python siamese_BiLSTM_word.py test
 
 
 
