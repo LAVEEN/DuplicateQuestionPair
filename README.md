@@ -2,7 +2,7 @@
 ## Setup
 This code is based on python 2. It has been tested on Ubuntu 16.04 LTS.
 
-#Dependencies :
+## Dependencies :
 
 1.  python
 2.  keras
@@ -25,7 +25,7 @@ Instructions:
 Place it in the same directory of codes in extracted form. Name of this dataset should be different from “train.csv” and “test.csv” 
 
 
-Run:
+## Run:
 1. python make_test_train_data_from_given_quora_dataset <dataset_name.csv>
 
 
