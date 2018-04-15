@@ -47,12 +47,14 @@ Place it in the same directory of codes in extracted form. Name of this dataset 
   
 	python char_embedding.py
 	
+	
 	Training :  python siamese_lstm_char.py train
 	
 	Testing  :  python siamese_lstm_char.py test
 
 
  4. For BiLSTM with word embedding:
+  
   
   	Training :  python siamese_BiLSTM_word.py train
 	
