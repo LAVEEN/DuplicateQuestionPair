@@ -32,30 +32,31 @@ Place it in the same directory of codes in extracted form. Name of this dataset 
 
 
 ## Run:
+
 1. python make_test_train_data_from_given_quora_dataset <dataset_name.csv>
 
 
 2. For LSTM with word embedding:
 
-	For training :  python siamese_lstm_word.py train
+	Training :  python siamese_lstm_word.py train
 	
-	For testing  :  python siamese_lstm_word.py test
+	Testing  :  python siamese_lstm_word.py test
 
 
-  For LSTM with char embedding:
+3. For LSTM with char embedding:
   
 	python char_embedding.py
 	
-	For training :  python siamese_lstm_char.py train
+	Training :  python siamese_lstm_char.py train
 	
-	For testing  :  python siamese_lstm_char.py test
+	Testing  :  python siamese_lstm_char.py test
 
 
-  For BiLSTM with word embedding:
+ 4. For BiLSTM with word embedding:
   
-  	For training :  python siamese_BiLSTM_word.py train
+  	Training :  python siamese_BiLSTM_word.py train
 	
-	For testing  :  python siamese_BiLSTM_word.py test
+	Testing  :  python siamese_BiLSTM_word.py test
 
 
 
