@@ -10,17 +10,17 @@ The project is based on Deep Learning Neural Network.It uses keras and tensorflo
 
 ### Dependencies :
 
-1.  python
-2.  keras
-3.  pandas
-4.  matplotlib
-5.  hdf5
-6.  h5py
-7.  nltk.corpus
+1.  Python
+2.  Keras
+3.  Pandas
+4.  Matplotlib
+5.  Hdf5
+6.  H5py
+7.  Nltk.corpus
 8.  re
-9.  pickle
-10. numpy
-11. glove word2vec
+9.  Pickle
+10. Numpy
+11. Glove Word2Vec
 
 
 #### Instructions:
