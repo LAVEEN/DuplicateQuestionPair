@@ -37,14 +37,16 @@ Place it in the same directory of codes in extracted form. Name of this dataset 
 
 
 2. For LSTM with word embedding:
+```python
 
 	Training :  python siamese_lstm_word.py train
 	
 	Testing  :  python siamese_lstm_word.py test
-
+```
 
 3. For LSTM with char embedding:
-  
+ ```python
+ 
 	python char_embedding.py
 	
 	
@@ -52,15 +54,16 @@ Place it in the same directory of codes in extracted form. Name of this dataset 
 	
 	Testing  :  python siamese_lstm_char.py test
 
-
+```
  4. For BiLSTM with word embedding:
+```python
   
   
   	Training :  python siamese_BiLSTM_word.py train
 	
 	Testing  :  python siamese_BiLSTM_word.py test
 
-
+```
 
 
 
