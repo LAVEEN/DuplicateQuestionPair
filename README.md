@@ -1,4 +1,8 @@
-Dependencies :
+
+## Setup
+This code is based on python 2. It has been tested on Ubuntu 16.04 LTS.
+
+#Dependencies :
 
 1.  python
 2.  keras
