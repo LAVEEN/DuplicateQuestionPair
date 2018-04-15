@@ -1,6 +1,6 @@
 
 ## Setup
-This code is based on Deep Learning. It has been tested on Ubuntu 16.04 LTS.
+The project is based on Deep Learning Neural Network.It uses keras and tensorflow. It has been tested on Ubuntu 16.04 LTS.
 
 
 ### Requirements
