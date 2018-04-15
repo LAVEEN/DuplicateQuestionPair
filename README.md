@@ -23,7 +23,7 @@ This code is based on Deep Learning. It has been tested on Ubuntu 16.04 LTS.
 11. glove word2vec
 
 
-Instructions:
+#### Instructions:
 
 1. Place glove folder in extracted form in the same directory of codes.
 
