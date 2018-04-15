@@ -54,4 +54,4 @@ Run:
 Documentation
 ============
 
-The documentation of the latest released version of Duplicate Question Pair Detection is available [here](https://docs.google.com/document/d/10rPiUkijm7ukeQcE-w_2ldIxhBeIxyDVHNKg8uabrFQ/edit?ts=5ad0c89a#). 
+The documentation of the latest released version of Duplicate Question Pair Detection is available [here](https://docs.google.com/document/d/10rPiUkijm7ukeQcE-w_2ldIxhBeIxyDVHNKg8uabrFQ/edit?usp=sharing). 
