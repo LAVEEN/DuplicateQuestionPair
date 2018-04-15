@@ -1,8 +1,14 @@
 
 ## Setup
-This code is based on python 2. It has been tested on Ubuntu 16.04 LTS.
+This code is based on Deep Learning. It has been tested on Ubuntu 16.04 LTS.
 
-## Dependencies :
+
+### Requirements
+
+  * Python 3.3+ or Python 2.7
+  * macOS or Linux or Windows
+
+### Dependencies :
 
 1.  python
 2.  keras
